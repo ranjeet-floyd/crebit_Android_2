@@ -1,0 +1,122 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bitblue.crebit.servicespage.fragments.Service">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/ll_fs_small"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/ib_small_postPaid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/crebit" />
+
+            <TextView
+                android:id="@+id/tv_small_postPaid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/postPaid" />
+
+            <ImageButton
+                android:id="@+id/ib_small_prePaid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/crebit" />
+
+            <TextView
+                android:id="@+id/tv_small_prePaid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/prePaid" />
+            <ImageButton
+                android:id="@+id/ib_small_datacard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/crebit" />
+
+            <TextView
+                android:id="@+id/tv_small_datacard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dataCard" />
+
+            <ImageButton
+                android:id="@+id/ib_small_dth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/crebit" />
+
+            <TextView
+                android:id="@+id/tv_small_dth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dth" />
+            <ImageButton
+                android:id="@+id/ib_small_insurance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/crebit" />
+
+            <TextView
+                android:id="@+id/tv_small_insurance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/insurance" />
+            <ImageButton
+                android:id="@+id/ib_small_electricity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/crebit" />
+
+            <TextView
+                android:id="@+id/tv_small_electricity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/electricity" />
+            <ImageButton
+                android:id="@+id/ib_small_gasBill"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/crebit" />
+
+            <TextView
+                android:id="@+id/tv_small_gasBill"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/gasBill" />
+            <ImageButton
+                android:id="@+id/ib_small_broadband"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/crebit" />
+
+            <TextView
+                android:id="@+id/tv_small_broadband"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/broadBand" />
+            <ImageButton
+                android:id="@+id/ib_small_fund"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/crebit" />
+
+            <TextView
+                android:id="@+id/tv_small_fund"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fundTransfer" />
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bu">
+        <item>0019 VASAI RD. URBAN S/DN</item>
+        <item>0027 VASAI RD. EAST S/DN.</item>
+        <item>0035 NALASOPARA WEST S/DN</item>
+        <item>0043 VIRAR EAST S/DN.</item>
+        <item>0051 THANE (AG)</item>
+        <item>0078 BHIWANDI II (AG)</item>
+        <item>0233 CHOPDA I S/DN</item>
+        <item>0235 ERANDOL S/DIVN.</item>
+        <item>0240 CHALISGAON-U</item>
+        <item>0250 NASIK067 BHP</item>
+        <item>0251 NASIK URBAN DN. I</item>
+        <item>0306 ACHALPUR CAMP S/DN.</item>
+        <item>0311 PANVEL</item>
+        <item>0329 PANVEL I (BHINGARI)</item>
+        <item>330 GADCHANDUR S/DN.</item>
+        <item>0337 URAN</item>
+        <item>0340 WADSA S/DN.</item>
+        <item>0343 ALLAPALLI S/DN.</item>
+        <item>0345 KALAOMBOLI SUB DIVN</item>
+        <item>0353 NARKHED S DIV</item>
+        <item>0354 MOHAPPA (R) S/DN.</item>
+        <item>0356 RAMTEKE S/DN.</item>
+        <item>0357 UMRER S/DN.</item>
+        <item>0358 BHIVAPURA S/DN.</item>
+        <item>0359 MOUDA S/DN.</item>
+        <item>0360 KANHAN S/DN.</item>
+        <item>0361 KUHI (R) S/DN.</item>
+        <item>0363 KALMESHWAR S/DN.</item>
+        <item>0364 KHAPARKHEDA S/DN.</item>
+        <item>0365 SAONER</item>
+        <item>0366 KHAPA S/DN.</item>
+        <item>0367 NAGPUR (R) CIRCLE</item>
+        <item>0371 WARDHA S/DN. R-I</item>
+        <item>0372 WARDHA S/DN. R-II</item>
+        <item>0373 HINGHANGHAT S/DN.</item>
+        <item>0377 ASHTI SUB DN</item>
+        <item>0379 KARANJA SUB DN</item>
+        <item>0380 KHARANGANA (R) S/DN.</item>
+        <item>0383 MOHADI S/DN.</item>
+        <item>0384 BHANDARA S/DN.</item>
+        <item>0385 LAKHANDUR S/DN.</item>
+        <item>0386 PAONI S/DN.</item>
+        <item>0388 AMGAON S/DN.</item>
+        <item>0389 DEORI S/DN.</item>
+        <item>0390 GONDIA (R) S/DN.</item>
+        <item>0391 SAKOLI S/DN.</item>
+        <item>0392 TIRORA S/DN.</item>
+        <item>0400 NASIK URBAN DIVISION</item>
+        <item>0418 KALWAN S/DIV</item>
+        <item>0426 MALEGAON (U) S/DN I</item>
+        <item>0434 DABHADI (R) SUBDN</item>
+        <item>0442 LASALGAON (R) S/DIV.</item>
+        <item>0451 NASIK (R) SUBDN</item>
+        <item>0467 CC O DHULE</item>
+        <item>0469 OZAR (R) SUBDN</item>
+        <item>0477 SINNAR-II (R) SUBDN</item>
+        <item>0485 MALEGAON CC(O)</item>
+        <item>0493 CCO (R) SDN NSKRD</item>
+        <item>0515 DHULE (U-I)</item>
+        <item>0523 SAKRI S/DN</item>
+        <item>0531 PARSIONI S/DN.</item>
+        <item>0540 SHAHADA - II S/DN</item>
+        <item>0546 NAVAPUR S/DN.</item>
+        <item>0558 SHINDKHEDA</item>
+        <item>0560 JALALKHEDA</item>
+        <item>0561 SAWARGAON S/DN.</item>
+        <item>0562 BUTIBORI S/DN.</item>
+        <item>0565 MORGAON ARJUNI S/DN.</item>
+        <item>0566 NARDANA</item>
+        <item>0574 DHULE (R)</item>
+        <item>0580 CHALISGAON R-III</item>
+        <item>0582 PIMPALNER</item>
+        <item>0583 GONDPIPRI S/DN.</item>
+        <item>0590 NAGAR DEOLA S/DN.</item>
+        <item>0591 NANDURBAR-U</item>
+        <item>0601 CHANDWAD DIVISION</item>
+        <item>0602 MANMAD RURAL DIVISIO</item>
+        <item>0603 MALEGAON URBAN DIVIS</item>
+        <item>0604 NASIK RURAL DIVISION</item>
+        <item>0612 BHUSAWAL (E)</item>
+        <item>0621 BHUSAWAL U-I S/DN.</item>
+        <item>0639 YAWAL I</item>
+        <item>0647 YAWAL II SUBDN.</item>
+        <item>0655 RAVER S/DIVISION.</item>
+        <item>0663 SAVADA SUB DIVISION.</item>
+        <item>0671 EDLABAD</item>
+        <item>0680 JAMNER</item>
+        <item>0698 BODWAD</item>
+        <item>0710 AHMEDNAGAR URBAN DIV</item>
+        <item>0744 KOPARGAON (U) S/DIV.</item>
+        <item>0787 SANGAMNER (U) S/DIV.</item>
+        <item>0795 KOPARGAON (R)</item>
+        <item>0817 HADAPSAR</item>
+        <item>0825 PIMPRI (R)</item>
+        <item>0833 SHIRUR</item>
+        <item>0841 BHOR</item>
+        <item>0850 MULSHI</item>
+        <item>0868 NASARAPUR</item>
+        <item>0876 URALIKANCHAN</item>
+        <item>0884 LONAVALA</item>
+        <item>0892 TALEGAON</item>
+        <item>0914 SATARA (U)</item>
+        <item>0922 KARAD URBAN</item>
+        <item>0931 SATARA</item>
+        <item>0949 KOREGAON</item>
+        <item>0957 WAI</item>
+        <item>0965 MEDHA</item>
+        <item>0973 PACHGANI</item>
+        <item>0974 SHINDKHED S/DN.</item>
+        <item>0981 WATHAR</item>
+        <item>0990 KARAD -I S/DN</item>
+        <item>1112 KOLHAPUR URBAN DIVIS</item>
+        <item>1121 GADHINGLAJ</item>
+        <item>1139 NESARI</item>
+        <item>1147 CHANDGAD</item>
+        <item>1155 AJARA</item>
+        <item>1163 HATKANANGALE</item>
+        <item>1171 JAYSINGPUR</item>
+        <item>1180 KURUNDWAD</item>
+        <item>1198 VADGAON</item>
+        <item>1210 SANGLI URBAN DIVISIO</item>
+        <item>1228 MIRAJ urban</item>
+        <item>1236 MADHAVNAGAR</item>
+        <item>1244 MIRAJ RURAL</item>
+        <item>1252 VISHRAMBAG</item>
+        <item>1261 TASGAON (I)</item>
+        <item>1279 TASGAON (II)</item>
+        <item>1287 JATH</item>
+        <item>1295 K.MAHANKAL</item>
+        <item>1317 SOLAPUR URBAN  DIVIS</item>
+        <item>1325 SOLAPUR R-I S/DN.</item>
+        <item>1333 SOLAPUR R-II S/DN.</item>
+        <item>1341 AKKALKOT S/DN.</item>
+        <item>1350 MOHOL S/DN.</item>
+        <item>1368 KURDUWADI S/DN.</item>
+        <item>1376 KARMALA S/DN.</item>
+        <item>1384 BARSHI (U) S/DN.</item>
+        <item>1392 BARSHI (R) S/DN.</item>
+        <item>1406 KHAMGAON</item>
+        <item>1503 AKOLA URBAN DIVISION</item>
+        <item>1511 WASHIM</item>
+        <item>1520 RISOD S/DN.</item>
+        <item>1538 MANGRULPEER</item>
+        <item>1546 KARANJA</item>
+        <item>1554 MANORA DN.</item>
+        <item>1562 MALEGAON S DN.</item>
+        <item>1619 AMARAVATI URBAN DIVS</item>
+        <item>1627 ANJANGAON SUB-DN</item>
+        <item>1635 DARYAPUR SUB-DN</item>
+        <item>1643 CHANDUR BAZAR</item>
+        <item>1651 SHENDURGANAGHAT S/DN</item>
+        <item>1660 MORSHI I S/DN</item>
+        <item>1678 BADNERA SUB-DN.</item>
+        <item>1686 NANDGAON KH SUB-DN</item>
+        <item>1694 TIWASA SUB-DN.</item>
+        <item>1708 YAVATMAL S/DN</item>
+        <item>1716 WANI S DIV</item>
+        <item>1724 PANDHARKAWADA</item>
+        <item>1732 PUSAD SUB-DN</item>
+        <item>1741 UMERKHED S/DN.</item>
+        <item>1759 DIGRAS S/DN.</item>
+        <item>1767 DHANKI S/DN</item>
+        <item>1813 WARDHA URBAN S/DN</item>
+        <item>1830 HINGANGHAT (U) S/DN</item>
+        <item>1848 ARVI URBAN S/DN</item>
+        <item>1856 DEOLI RURAL S/DN</item>
+        <item>1864 SAMUDRAPUR RURAL SDN</item>
+        <item>1881 PULGAON  URBAN S/DN</item>
+        <item>1902 CT METER NGP (U) DN.</item>
+        <item>1911 KAMTEE URBAN  SDN</item>
+        <item>1929 BHANDARA URBAN S/DN</item>
+        <item>1937 GONDIA URBAN S/DN</item>
+        <item>1945 KATOL RURAL S/DN</item>
+        <item>1953 kondhali RURAL s/dn</item>
+        <item>1996 CT METER NGP (U) DN.</item>
+        <item>2020 TUMSAR S/DN</item>
+        <item>2119 CHANDRAPUR I (U)S/DN</item>
+        <item>2127 BALLARSHA URBAN SDN</item>
+        <item>2160 CHANDRAPUR-II(U)SDN</item>
+        <item>2178 WARORA (U) S/DN</item>
+        <item>2186 BHADRAVATI URBAN SDN</item>
+        <item>2216 AURANGABAD URBAN I D</item>
+        <item>2224 GANGAPUR (R) S/DN</item>
+        <item>2232 PAITHAN  (R) S/D</item>
+        <item>2241 AURANGABAD  R-I S/D</item>
+        <item>2267 AURANGBAD R-II S/D</item>
+        <item>2275 KHULATABAD (R) S/D</item>
+        <item>2291 AURANGABAD(U)-AG</item>
+        <item>2313 PARBHANI (U) S/D</item>
+        <item>2321 PARBHANI (R) S/DN</item>
+        <item>2330 GANGAKHED (R) S/DN</item>
+        <item>2348 PATHRI (R) S-DN</item>
+        <item>2356 SAILU   (R)  S/D</item>
+        <item>2364 BASMAT (R) S/DN.</item>
+        <item>2372 JINTUR (R) S/DN</item>
+        <item>2381 HINGOLI (R) S/DN</item>
+        <item>2399 KALAMNURI (R) S/DN</item>
+        <item>2411 NANDED   (U) S/DN-I</item>
+        <item>2429 NANDED RURAL-I S/DN</item>
+        <item>2437 NANDED RURAL II S/DN</item>
+        <item>2445 NAIGAON (R) S/DN</item>
+        <item>2453 LOHA (R) S/DN</item>
+        <item>2461 KANDHAR (R) S/DN</item>
+        <item>2470 DHARMABAD (R) S/DN</item>
+        <item>2488 DEGLOOR (R) S/DN</item>
+        <item>2496 MUKHED (R) S/DN</item>
+        <item>2500 KOLHAPUR CIRCLE</item>
+        <item>2511 MA</item>
+        <item>2518 BEED     (U) S/D</item>
+        <item>2526 PATODA (R) S/DN</item>
+        <item>2534 GEORAI (R) S/DN</item>
+        <item>2542 BEED RURAL S/DN</item>
+        <item>2551 ASHTI (R) S/DN</item>
+        <item>2569 AMBEJOGAI</item>
+        <item>2577 KAIJ (R) S/DN</item>
+        <item>2585 PARALI (R) S-DN</item>
+        <item>2593 MAJALGAON S/DN.</item>
+        <item>2615 OSMANABAD (R) S/DN</item>
+        <item>2623 TER (R) S/DN</item>
+        <item>2631 TULJAPUR (R) S/DN</item>
+        <item>2640 BHOOM (R) S/DN</item>
+        <item>2642 CHANDRAPUR CIRCLE</item>
+        <item>2655 GADCHIROLI CIRCLE</item>
+        <item>2658 PARANDA (R) S/DN</item>
+        <item>2665 BHANDARA CIRCLE</item>
+        <item>2666 KALAM (R)S/DN</item>
+        <item>2674 OMERGA (R) S/DN</item>
+        <item>2680 LATUR CIRCLE</item>
+        <item>2712 JALNA    (U) S/D</item>
+        <item>2721 JALNA (R) S/DN</item>
+        <item>2739 BADNAPUR (R) S/DN</item>
+        <item>2747 AMBAD (R) S/DN</item>
+        <item>2755 PARTUR (R) S/DN</item>
+        <item>2763 BHOKARDHAN (R) S/DN</item>
+        <item>2801 AKOLA (R) SUB-DN</item>
+        <item>2810 AKOT SUB DN</item>
+        <item>2828 TELHARA SUB-DN.</item>
+        <item>2836 MURTIZAPUR SUB-DN</item>
+        <item>2844 BALAPUR SUB-DN</item>
+        <item>2852 BULDANA SUB-DN</item>
+        <item>2861 CHIKHLI</item>
+        <item>2879 D RAJA SUB-DN</item>
+        <item>2887 MALKAPUR S/DN.</item>
+        <item>2895 MOTALA S. DN.</item>
+        <item>2917 KHAMGAON(R) S/DN</item>
+        <item>2925 NANDURA S/DN.</item>
+        <item>2933 JALGAON JALMOD SDIV</item>
+        <item>2941 MEHEKAR</item>
+        <item>2984 AMRAVATI (R) SUB-DN</item>
+        <item>2992 DHAMANGAON SUB-DN</item>
+        <item>3000 CHANDUR RLY SUB-DN.</item>
+        <item>3018 PIMPRI DIVISION</item>
+        <item>3026 SHIVAJI NAGAR DIVISI</item>
+        <item>3034 BUNDGARDEN DIVISION</item>
+        <item>3041 NASIK URBAN DN. II</item>
+        <item>3042 PADMAVATI DIVISION</item>
+        <item>3051 RASTAPETH DIVISION</item>
+        <item>3069 KOTHRUD DIVISION</item>
+        <item>3077 ACHALPUR CITY SUB-DN</item>
+        <item>3085 DHARNI S/DN.</item>
+        <item>3093 WARUD (I)</item>
+        <item>3107 WARUD II S/DN</item>
+        <item>3115 PIMPRI DN. (AG)</item>
+        <item>3123 SHIVAJINAGAR DN.(AG)</item>
+        <item>3131 BAND GARDEN DN. (AG)</item>
+        <item>3140 PADMAVATI DN. (AG)</item>
+        <item>3150 AKOLA URBAN DIVISION</item>
+        <item>3151 WASHIM DIVISION</item>
+        <item>3158 RASTA PETH DN. (AG)</item>
+        <item>3161 AMARAVATI URBAN DIVS</item>
+        <item>3166 KALAMB S/DN.</item>
+        <item>3170 YAVATMAL DIVSION</item>
+        <item>3174 YAVATMAL (R) SUB-DN.</item>
+        <item>3181 WARDHA DIVSION</item>
+        <item>3183 ARVI DIVISION</item>
+        <item>3184 HINGANGHAT DIVSION</item>
+        <item>3191 DHARWAH S/DN.</item>
+        <item>3204 NER S/DN.</item>
+        <item>3221 AURANGABAD URBAN I D</item>
+        <item>3222 AURANGABAD URBAN II.</item>
+        <item>3224 AURANGABAD RURAL I D</item>
+        <item>3226 KANNAD DIVISION</item>
+        <item>3231 PARBHANI DIVSION</item>
+        <item>3251 BEED DIVSION</item>
+        <item>3271 JALNA DIVISION I</item>
+        <item>3273 JALNA DIVISION II</item>
+        <item>3310 PARVATI DIVISION</item>
+        <item>3311 PARVATI DN. AG/CT</item>
+        <item>3312 NAGAR DIVISION</item>
+        <item>3399 KALYAN (EAST) DIVISI</item>
+        <item>3544 PANVEL RURAL DIVISIO</item>
+        <item>3553 THANE DIVISION-I</item>
+        <item>3554 MULUND DIVISION</item>
+        <item>3555 BHANDUP URBAN DIVISI</item>
+        <item>3558 MULUND DIVISION</item>
+        <item>3559 THANE DIVISION (IP)</item>
+        <item>3560 BHANDUP URBAN DIVISI</item>
+        <item>3571 AHMEDNAGAR RURAL DIV</item>
+        <item>3573 SANGEMNER DIVISION</item>
+        <item>3574 KARJAT (R) DIVISION</item>
+        <item>3581 DHULE RURAL DIVISION</item>
+        <item>3582 DHULE URBAN DIVISION</item>
+        <item>3583 DONDAICHA DIVISION</item>
+        <item>3584 SHAHADA DIVISION</item>
+        <item>3585 NANDURBAR (O) DIVISI</item>
+        <item>3591 SAVADA DIVISION</item>
+        <item>3595 PACHORA DIVISION</item>
+        <item>3596 CHALISGAON DIVISION</item>
+        <item>3605 SATANA DIVISION</item>
+        <item>3611 AKOLA CONSTRUCTION D</item>
+        <item>3613 BULDHANA DIVISION</item>
+        <item>3614 KHAMGAON CONSTRUCTIO</item>
+        <item>3615 MALKAPUR DIVISION</item>
+        <item>3622 AMARAVATI CONSTRUCTI</item>
+        <item>3623 ACHALPUR DIVISION</item>
+        <item>3624 MURSHI DIVSION</item>
+        <item>3631 PUSAD DIVSION</item>
+        <item>3632 PANDHARKAWADA DN.</item>
+        <item>3643 GADCHIROLI DIVISION</item>
+        <item>3644 BRAMHAPURI DIVISION</item>
+        <item>3645 ALLAPALLI DIVISION</item>
+        <item>3651 BHANDARA DIVSION</item>
+        <item>3652 GONDIA DIVISION</item>
+        <item>3653 KATOL DIVISION</item>
+        <item>3654 NAGPUR I DIVISION</item>
+        <item>3655 NAGPUR II DIVISION</item>
+        <item>3656 SAKOLI O DIVISION</item>
+        <item>3657 DEORI DIVISION</item>
+        <item>3681 AMBEJOGAI DIVISION</item>
+        <item>3694 HINGOLI DIVSION</item>
+        <item>3808 SELU RURAL S/DN</item>
+        <item>3905 NAGPUR (U) S/DN.I</item>
+        <item>3956 HINGANA S/DN</item>
+        <item>4006 DOMBIVALI URBAN DIVS</item>
+        <item>4014 KALYAN URBAN DIVISIO</item>
+        <item>4016 KOLHAPUR U.(E) S/DN.</item>
+        <item>4017 KOLHAPUR U. CENTRAL</item>
+        <item>4018 KOLHAPUR U.(W) S/DN.</item>
+        <item>4019 KOLHAPUR U.(N) S/DN.</item>
+        <item>4021 KOLHAPUR U.MARKET Y.</item>
+        <item>4022 ULHASNAGAR DIVISION </item>
+        <item>4031 ULHASNAGAR DIVISION </item>
+        <item>4049 WASHI DIVISION</item>
+        <item>4057 WASHI IND.</item>
+        <item>4065 WAGLE ESTATE IND.</item>
+        <item>4066 VISHRAMBAG NORTH ZN.</item>
+        <item>4067 SANGLIWADI WEST ZONE</item>
+        <item>4068 CENTRAL ZONE,SANGLI</item>
+        <item>4069 SOUTH ZONE,SANGLI</item>
+        <item>4073 KALYAN CC O S/DN</item>
+        <item>4086 SOLAPUR (A) S/DN.</item>
+        <item>4087 SOLAPUR (B) S/DN.</item>
+        <item>4088 SOLAPUR (C) S/DN.</item>
+        <item>4089 SOLAPUR (D) S/DN.</item>
+        <item>4090 WAGLE ESTATE DIVISIO</item>
+        <item>4127 WASHI O S/DN.</item>
+        <item>4129 GOREGAON</item>
+        <item>4130 MAHAD</item>
+        <item>4131 MHASALA</item>
+        <item>4132 MURUD</item>
+        <item>4133 PALI</item>
+        <item>4134 POLADPUR</item>
+        <item>4135 ROHA</item>
+        <item>4136 SHRIWARDHAN</item>
+        <item>4137 ALIBAG-I</item>
+        <item>4138 ALIBAG-II</item>
+        <item>4139 KARJAT</item>
+        <item>4140 KHOPOLI</item>
+        <item>4141 PANVEL-II</item>
+        <item>4142 PEN</item>
+        <item>4143 BHIWANDI I S/DN.</item>
+        <item>4144 BHIWANDI II S/DN.</item>
+        <item>4145 BHIWANDI III S/DN.</item>
+        <item>4146 BHIWANDI IV S/DN.</item>
+        <item>4147 BHIWANDI V S/DN.</item>
+        <item>4148 BHIWANDI VI S/DN.</item>
+        <item>4151 KALYAN (E) S/DN.I</item>
+        <item>4158 WADA S/DN.</item>
+        <item>4159 BOISAR (R) S/DN.</item>
+        <item>4160 DAHANU S/DN.</item>
+        <item>4161 JAWHAR S/DN.</item>
+        <item>4162 PALGHAR S/DN.</item>
+        <item>4163 MIDC(BOISAR) S/DN.</item>
+        <item>4164 SAFALA S/DN.</item>
+        <item>4165 TALASARI S/DN.</item>
+        <item>4166 DOMBIVALI EAST S/DN.</item>
+        <item>4167 DOMBIVALI WEST S/DN.</item>
+        <item>4168 KALYAN I S/DN.</item>
+        <item>4169 KALYAN (E) S/DN.II</item>
+        <item>4170 ULHASNAGAR I S/DN.</item>
+        <item>4171 ULHASNAGAR II S/DN.</item>
+        <item>4172 ULHASNAGAR III S/DN.</item>
+        <item>4173 ULHASNAGAR IV S/DN.</item>
+        <item>4174 ULHASNAGAR  V S/DN.</item>
+        <item>4175 AMBERNATH(WEST)S/DN.</item>
+        <item>4176 CHIPLUN (U) S/DN.</item>
+        <item>4177 CHIPLUN (R) S/DN.</item>
+        <item>4178 DAPOLI I S/DN.</item>
+        <item>4179 GUGHAGAR S/DN.</item>
+        <item>4180 KHED S/DN.</item>
+        <item>4181 MANDANGAD S/DN.</item>
+        <item>4182 VENGURLA S/DN.</item>
+        <item>4183 DEOGAD S/DN.</item>
+        <item>4184 KANKAVALI S/DN.</item>
+        <item>4185 KUDAL I S/DN.</item>
+        <item>4186 MALWAN S/DN.</item>
+        <item>4187 SAWANTWADI (U) S/DN.</item>
+        <item>4188 SAWANTWADI (R) S/DN.</item>
+        <item>4189 DEORUKH S/DN.</item>
+        <item>4190 RATNAGIRI R-II S/DN.</item>
+        <item>4191 RAJAPUR I S/DN.</item>
+        <item>4192 RATNAGIRI R-I S/DN.</item>
+        <item>4193 RATANAGIRI (U)</item>
+        <item>4200 AHMEDNAGAR U-IIS/DN.</item>
+        <item>4204 AHMEDNAGAR U-I S/DN.</item>
+        <item>4236 JALGAON U-I S/DN.</item>
+        <item>4237 JALGAON U-II S/DN.</item>
+        <item>4250 CITY S/DN.</item>
+        <item>4251 NASIK RD (U) S/DN.</item>
+        <item>4252 PANCHAVATI S/DN.</item>
+        <item>4253 SATPUR S/DN.</item>
+        <item>4261 KALWA S/DN.</item>
+        <item>4264 MALEGAON (U) S/DN I</item>
+        <item>4265 MALEGAON (U) S/DN II</item>
+        <item>4275 AKOLA U-I S/DN</item>
+        <item>4295 AMRAVATI U. I S/DN.</item>
+        <item>4296 AMRAVATI U. II S/DN.</item>
+        <item>4297 AMRAVATI U. IIIS/DN.</item>
+        <item>4310 BHOSARI DN. (AG)</item>
+        <item>4316 KOTHRUD DN. (AG)</item>
+        <item>4327 CHANDRAPUR S/DN.</item>
+        <item>4328 RAJURA S/DN.</item>
+        <item>4329 GONDPIPRI S/DN.</item>
+        <item>4330 GADCHANDUR S/DN.</item>
+        <item>4331 BRAMHAPURI S/DN.</item>
+        <item>4332 BHIWANDI URBAN II DI</item>
+        <item>4334 SIRONCHA S/DN.</item>
+        <item>4335 MUL S/DN.</item>
+        <item>4336 NAGBHID S/DN.</item>
+        <item>4337 CHIMUR</item>
+        <item>4338 GADCHIROLI S/DN.</item>
+        <item>4339 ARMORI S/DN.</item>
+        <item>4340 WADSA S/DN.</item>
+        <item>4341 VASAI RD. URBAN S/DN</item>
+        <item>4342 KULKHEDA S/DN.</item>
+        <item>4343 ALLAPALLI S/DN.</item>
+        <item>4344 CHAMORSHI S/DN.</item>
+        <item>4345 ETAPALLI S/DN.</item>
+        <item>4346 SINDEWAHI S/DN.</item>
+        <item>4359 VASAI RD. EAST S/DN.</item>
+        <item>4364 KHAPARKHEDA S/DN.</item>
+        <item>4367 BHIWANDI URBAN I DIV</item>
+        <item>4371 WARDHA S/DN. R-I</item>
+        <item>4372 WARDHA S/DN. R-II</item>
+        <item>4373 HINGHANGHAT S/DN.</item>
+        <item>4375 NALASOPARA WEST S/DN</item>
+        <item>4377 ASHTI SUB DN</item>
+        <item>4379 KARANJA SUB DN</item>
+        <item>4380 KHARANGANA (R) S/DN.</item>
+        <item>4383 KALYAN URBAN DIVISIO</item>
+        <item>4391 MUMBRA S/DN</item>
+        <item>4394 A-BAD POWER HOUSE</item>
+        <item>4395 CHIKALDHANA S/DN.</item>
+        <item>4396 KRANTICHOWK S/DN.</item>
+        <item>4405 BADLAPUR (E) S/DN.</item>
+        <item>4445 NANDED (U) S/DN-II</item>
+        <item>4448 SHAHAPUR</item>
+        <item>4456 MURBAD</item>
+        <item>4464 VIRAR WEST S/DN.</item>
+        <item>4532 VAIBHAVWADI S/DN.</item>
+        <item>4540 KISAN NAGAR</item>
+        <item>4541 KOLSHETH URBAN S/DN.</item>
+        <item>4542 WAGLE ESTATE S/DN.</item>
+        <item>4551 LONAR S/DN.</item>
+        <item>4570 AKOLA U-II S/DN</item>
+        <item>4572 LANJA S/DN.</item>
+        <item>4577 KALYAN (E) S/DN.III</item>
+        <item>4578 CHAWANI S/DN.</item>
+        <item>4579 SOLAPUR (E) S/DN.</item>
+        <item>4591 LOKMANYA NAGAR</item>
+        <item>4592 AKOLA U-III S/DN</item>
+        <item>4593 DAPODI SUB-DN.</item>
+        <item>4594 KHERALWADI SUB-DN.</item>
+        <item>4595 AKURDI SUB-DN.</item>
+        <item>4596 BHOSARI I SUB-DN.</item>
+        <item>4597 SHIVAJINAGAR S/DN.</item>
+        <item>4598 GANESH KHIND SUB-DN.</item>
+        <item>4599 AUNDH SUB-DN.</item>
+        <item>4600 KHADKI SUB-DN.</item>
+        <item>4601 WADIA SUB-DN.</item>
+        <item>4602 VISHRANTWADI SUB-DN.</item>
+        <item>4603 HADAPSAR SUB-DN.</item>
+        <item>4604 NAGAR ROAD SUB-DN.</item>
+        <item>4605 SWARGATE SUB-DN.</item>
+        <item>4606 MARKET YARD SUB-DN.</item>
+        <item>4607 FIRE BRIGADE SUB-DN.</item>
+        <item>4608 RASTA PETH SUB-DN.</item>
+        <item>4609 KASBA SUB-DN.</item>
+        <item>4610 ST. MARRY SUB-DN.</item>
+        <item>4611 DECCAN GYMAKHANA S/D</item>
+        <item>4612 PESHWE PARK SUB-DN.</item>
+        <item>4613 KOTHRUD SUB-DN.</item>
+        <item>4614 WARGE SUB-DN.</item>
+        <item>4615 BHOSARI II SUB-DN.</item>
+        <item>4635 CHINCHWAD SUB-DN.</item>
+        <item>4636 SANGHVI SUB-DN.</item>
+        <item>4637 DHANKAWADI SUB-DN.</item>
+        <item>4640 LATUR (U) S/D(SOUTH)</item>
+        <item>4641 AIROLI S/DN.</item>
+        <item>4642 NERUL S/DN.</item>
+        <item>4643 SHIL SUB DIVISION</item>
+        <item>4645 BHIWANDI VII S/DN.</item>
+        <item>4646 DHANORA S/DN.</item>
+        <item>4652 CBD BELAPUR S/DN.</item>
+        <item>4655 KOPRI S/DN</item>
+        <item>4656 JALGAON DN. 20HP CT</item>
+        <item>4657 BHUSAVAL UCR DN.20HP</item>
+        <item>4658 DHARANGAON DN 20HP</item>
+        <item>4659 NANDED (U) S/D 20HP</item>
+        <item>4660 JALNA (U) S/DN 20HP</item>
+        <item>4661 JALNA (R) S/DN 20HP</item>
+        <item>4662 BHOKARDHAN (R) 20HP</item>
+        <item>4663 JAFARABAD(R) 20HP</item>
+        <item>4664 BADNAPUR (R) 20HP</item>
+        <item>4665 AMBAD (R) S/DN 20HP</item>
+        <item>4666 PARTUR (R) S/DN 20HP</item>
+        <item>4667 NAGAR URBAN DN. 20HP</item>
+        <item>4668 DHAD S/DN.</item>
+        <item>4669 AMBAD S/DN.</item>
+        <item>4670 DWARKA S/DN.</item>
+        <item>4671 DEOLALI S/DN.</item>
+        <item>4672 WALUNJ S/DN.</item>
+        <item>4673 SHAHGANJ S/DN.</item>
+        <item>4674 A-BAD CIDCO S/DN.</item>
+        <item>4675 GHARGHED S/DN.</item>
+        <item>4676 ALANDI SUB-DN.</item>
+        <item>4677 WADGAON SUB-DN.</item>
+        <item>4678 CIVIL LINE S/DN.</item>
+        <item>4679 MRS S/DN.</item>
+        <item>4680 LASHKARIBAG S/DN.</item>
+        <item>4681 SHANKAR NAGAR S/DN.</item>
+        <item>4682 REGENT S/DN.</item>
+        <item>4683 TRIMURTI NAGAR S/DN.</item>
+        <item>4684 MANEWADA S/DN.</item>
+        <item>4685 TULSHIBAG S/DN.</item>
+        <item>4686 NANDANWAN S/DN.</item>
+        <item>4687 ITWARI S/DN.</item>
+        <item>4688 WARDHAMAN S/DN.</item>
+        <item>4689 BINAKI S/DN.</item>
+        <item>4690 MIDC - I S/DN.</item>
+        <item>4691 MIDC - II S/DN.</item>
+        <item>4692 MANDAI SUB-DN.</item>
+        <item>4696 KALYAN U. IV S/DN.</item>
+        <item>4697 VASAI RD. WEST S/DN.</item>
+        <item>4698 VASAI RD. AG/ST.S/DN</item>
+        <item>4699 SHIKRAPUR S/DN.</item>
+        <item>4700 CHAKAN S/DN.</item>
+        <item>4701 KEDGAON S/DN.</item>
+        <item>4702 GHANSAWANGI S/DN.</item>
+        <item>4703 SARVODAY S/DN.</item>
+        <item>4704 PACH RASTA S/DN.</item>
+        <item>4705 NEELAM NAGAR S/DN.</item>
+        <item>4706 VIRAR EAST S/DN.</item>
+        <item>4707 VIRAR (E) AG/ST.S/DN</item>
+        <item>4708 NALASOPARA EAST S/DN</item>
+        <item>4709 NALASOPARA(E)IP.S/DN</item>
+        <item>4710 ICHALKARNJI A S/DN.</item>
+        <item>4711 ICHALKARNJI B S/DN.</item>
+        <item>4713 BHUSAWAL U-II S/DN.</item>
+        <item>4714 GHODEGAON SUB-DN.</item>
+        <item>4715 PANDHARPUR R-II S/DN</item>
+        <item>4716 AKLUJ II SUB-DN.</item>
+        <item>4717 SAWARDA S/DN.</item>
+        <item>4718 KILLARI S/DN.</item>
+        <item>4719 LAKNI S/DN.</item>
+        <item>4720 DOMBIVALI WEST IISDN</item>
+        <item>4721 SANKH S/DN.</item>
+        <item>4722 SOMESHWAR SUB-DN.</item>
+        <item>4723 WALCHANDNAGAR SUB-DN</item>
+        <item>4724 NANDED (U) MIDC SDN.</item>
+        <item>4726 VIKAS COMPLEX S/DN.</item>
+        <item>4727 POWER HOUSE S/DN.</item>
+        <item>4728 GADKARI S/DN.</item>
+        <item>4729 IP/COM.VIKAS COMPLEX</item>
+        <item>4730 IP/COM.POWER HOUSE</item>
+        <item>4731 IP/COM.GADKARI S/DN.</item>
+        <item>4732 ISHWAR NAGAR S/DN</item>
+        <item>4733 BHANDUP (E) S/DN</item>
+        <item>4734 PANNALAL S/DN</item>
+        <item>4738 IP/COM SARVODAY S/DN</item>
+        <item>4739 IP/COM PACHRASTA SDN</item>
+        <item>4740 IP/CO NEELAM NGR SDN</item>
+        <item>4741 OSMANABAD (U) S/DN</item>
+        <item>4742 UDGIR URBAN S/DN.</item>
+        <item>4743 VAIJAPUR-II S/DN.</item>
+        <item>4744 DHARUR SUB-DN.</item>
+        <item>4745 HADAPSAR (I) SUB-DN.</item>
+        <item>4746 WADGAON SHERI SUB-DN</item>
+        <item>4747 BHUSARI COLONY S/DN.</item>
+        <item>4748 (U)S/DN.III MALEGAON</item>
+        <item>4749 GANGAPUR N.(U) S/DN.</item>
+        <item>4750 HIMAYATNAGAR S/DN</item>
+        <item>4751 KALYAN SUB D/DN. V</item>
+        <item>4752 PALM BEACH S/DN.</item>
+        <item>4753 KOPARKHAIRENE S/DN.</item>
+        <item>4754 AMBERNATH(EAST)S/DN.</item>
+        <item>4755 BADLAPUR (W) S/DN.</item>
+        <item>4756 BARSHI TAKLI SUB-DN</item>
+        <item>4757 JEUR SUB-DIVISION</item>
+        <item>4758 LOHARA S/DN</item>
+        <item>4759 BELWANDI S/DN.</item>
+        <item>4760 MORSHI II S/DN.</item>
+        <item>4761 DAPOLI II S/DN.</item>
+        <item>4762 LOTE(MIDC) S/DN.</item>
+        <item>4763 RAJAPUR II S/DN.</item>
+        <item>4764 SANGAMESHWAR S/DN.</item>
+        <item>4765 KUDAL II S/DN.</item>
+        <item>4766 ACHARA S/DN.</item>
+        <item>4767 ACHALPUR II S/DN.</item>
+        <item>4768 DOMBIVALI(W) S/DN-IV</item>
+        <item>4769 WADGAON MAVAL S/DN.</item>
+        <item>4770 ALE PHATA S/DN.</item>
+        <item>4771 KALWAN S/DIV</item>
+        <item>4772 NASIK RURAL DIVISION</item>
+        <item>4773 RAVER S/DIVISION.</item>
+        <item>4774 AKOLA URBAN DIVISION</item>
+        <item>4775 YAVATMAL DIVSION</item>
+        <item>4776 CT METER NGP (U) DN.</item>
+        <item>4777 KAMTEE URBAN  SDN</item>
+        <item>4778 BHANDARA URBAN S/DN</item>
+        <item>4779 PIMPRI DIVISION</item>
+        <item>4780 WARUD II S/DN</item>
+        <item>4781 NER S/DN.</item>
+        <item>4782 KOTHRUD DN. (AG)</item>
+        <item>4783 AHMEDPUR</item>
+        <item>4784 KADAMWADI</item>
+        <item>4785 VITA I S/DN.</item>
+        <item>4786 MANGALVEDHA</item>
+        <item>4787 NANDGAON</item>
+        <item>4788 MIRAJ RURAL-II S/DN.</item>
+        <item>4789 SAVLAJ S/DN.</item>
+        <item>4790 BHATKULI S/DN</item>
+        <item>4791 MUDKHED S/DN</item>
+        <item>4792 BILOLI S/DN</item>
+        <item>4793 MAHUR S/DN</item>
+        <item>4794 UMRI S/DN</item>
+        <item>4795 KHARGHAR S/DN</item>
+        <item>4796 MANTHA S/DN</item>
+        <item>4797 SENGAON SDN</item>
+        <item>4798 AUNDHA NAGNATH S/DN</item>
+        <item>4799 SONPETH S/DN</item>
+        <item>4800 PALAM S/DN</item>
+        <item>4801 MANWAT S/DN</item>
+        <item>4802 SHIRUR SDN</item>
+        <item>4803 PHULAMBRI S/DN</item>
+        <item>4804 TALA S/DN</item>
+        <item>4805 MANGAON S/DN</item>
+        <item>4806 MADHA S/DN</item>
+        <item>4807 GAGANBAWADA S/DN</item>
+        <item>4808 MALSHIRAS S/DN</item>
+        <item>4809 SANGRAMPUR S/DN</item>
+        <item>4810 GOREGAON S/DN</item>
+        <item>4811 SADAK ARJUNI S/DN</item>
+        <item>4812 SALEKASA S/DN</item>
+        <item>4813 KHALAPUR S/DN</item>
+        <item>4814 PATUR S/DN</item>
+        <item>4815 BABHULGAON S/DN</item>
+        <item>4816 RALEGAON S/DN</item>
+        <item>4817 MAREGAON S/DN</item>
+        <item>4818 ZARI-JAMANI S/DN</item>
+        <item>4819 KHANDALA S/DN</item>
+        <item>4820 WASHI S/DN</item>
+        <item>4821 Tembhurni S/DN</item>
+        <item>4822 Devani S/DN</item>
+        <item>4823 Shirur Anantpal S/DN</item>
+        <item>4824 MOKHADA S/DN</item>
+        <item>4825 VIKRAMGAD S/DN</item>
+        <item>4826 Korchi S/DN</item>
+        <item>4827 Mulchera S/DN</item>
+        <item>4828 Bhamaragad S/DN</item>
+        <item>4829 Surgana S/DN</item>
+        <item>4830 Khatav S/DN</item>
+        <item>4831 Rahimatpur S/DN</item>
+        <item>4832 SAOLI S/DN</item>
+        <item>4833 POMBHURNA S/DN</item>
+        <item>4834 JIWATI S/DN</item>
+        <item>4835 MAHABALESHWAR S/DN</item>
+        <item>4836 Khanapur S/DN</item>
+        <item>4837 Akkalkuwa S/DN</item>
+        <item>4838 Dhadgaon S/DN</item>
+        <item>4839 SHRIRAMPUR S/DN</item>
+        <item>4840 BABHALESHWAR S/DN</item>
+        <item>4841 RAHURI FACTORY S/DN</item>
+        <item>4842 RAHURI S/DN</item>
+        <item>4843 BELAPUR S/DN</item>
+        <item>4844 M/S CITY CORPORATION</item>
+        <item>4845 M/S LAVASA CORPORATI</item>
+        <item>4846 M/S SAHARA INDIA COM</item>
+        <item>4847 CHIKHALDARA S/DN</item>
+        <item>4848 Jalgaon Energy (P) L</item>
+        <item>4849 M/S  ICC Reality - I</item>
+        <item>4850 M/S  ICC Reality -II</item>
+        <item>4851 GANESHKHIND (U) CIRC</item>
+        <item>4852 RASTAPETH (U) CIRCLE</item>
+        <item>4853 PUNE (R) CIRCLE</item>
+        <item>4854 RAMNATH CITY S/DN</item>
+        <item>4855 MANJRI STUD FIRM Pvt</item>
+        <item>4856 RASTAPETH (U) CIRCLE</item>
+        <item>4857 RASTAPETH (U) CIRCLE</item>
+        <item>4860 RASTAPETH (U) CIRCLE</item>
+        <item>4861 M/s Lodha Dwellers P</item>
+        <item>4862 EON Hadpsar P.Ltd.</item>
+        <item>4863 Raheja (BLDG No.1)</item>
+        <item>4864 Raheja (BLDG No.3)</item>
+        <item>4865 Raheja (BLDG No. 6)</item>
+        <item>4867 ACHOLE SUB DIVISION</item>
+        <item>5118 LATUR   (U)  S/D</item>
+        <item>5126 LATUR (R) S/D</item>
+        <item>5134 MURURD (R) S/DN</item>
+        <item>5142 UDGIR(R) S/DN</item>
+        <item>5151 AHMEDPUR</item>
+        <item>5169 CHAKUR (R) S/DN</item>
+        <item>5177 NILANGA (R) S/DN</item>
+        <item>5185 AUSA (R) S/DN</item>
+        <item>5193 SHIRUR (R) S/DN</item>
+        <item>5258 GHANTAJI S/DN.</item>
+        <item>5266 MAHAGAON S/DN.</item>
+        <item>5274 ARNI S/DN.</item>
+        <item>5282 SHEGAON S/DN.</item>
+        <item>5291 YEOLA-R</item>
+        <item>5401 IGATPURI (R) SUBDN</item>
+        <item>5410 DINDORI (R) SUBDN</item>
+        <item>5428 NIPHAD</item>
+        <item>5436 NAMPUR</item>
+        <item>5444 MANMAD</item>
+        <item>5452 SINNAR-I</item>
+        <item>5461 CHANDWAD</item>
+        <item>5479 SATANA</item>
+        <item>5487 PIMPALGAON</item>
+        <item>5495 PEINTH</item>
+        <item>5517 NANDURBAR-R1</item>
+        <item>5525 DONDAICHA</item>
+        <item>5533 SHAHADA-I</item>
+        <item>5541 TALODA</item>
+        <item>5550 SHIRPUR-I</item>
+        <item>5568 DEOPUR</item>
+        <item>5576 SHIRPUR-II</item>
+        <item>5584 NANDURBAR-R2</item>
+        <item>5606 VARANGAON S/DN</item>
+        <item>5614 DHARANGAON DIVISION.</item>
+        <item>5622 AMALNER (U) S/DIVN.</item>
+        <item>5631 TALEGAON S/DN</item>
+        <item>5649 RENAPUR (R) S/DN</item>
+        <item>5657 AMALNER-II</item>
+        <item>5665 JALGAON-R</item>
+        <item>5673 JALGAON URBAN DIVISI</item>
+        <item>5681 JAFARABAD(R) S/DN</item>
+        <item>5690 NASHIRABAD</item>
+        <item>5711 JAMKHED</item>
+        <item>5720 KARJAT</item>
+        <item>5738 NEWASA</item>
+        <item>5746 PATHARDI</item>
+        <item>5754 SHEVGAON</item>
+        <item>5762 SHRIGONDA</item>
+        <item>5771 RAHATA</item>
+        <item>5789 AKOLE</item>
+        <item>5797 SANGAMNER - II</item>
+        <item>5801 SASWAD</item>
+        <item>5819 MANCHAR</item>
+        <item>5827 RAJGURUNAGAR</item>
+        <item>5835 NARAYANGAON</item>
+        <item>5843 JUNNAR</item>
+        <item>5851 BARAMATI (U)</item>
+        <item>5860 BARAMATI (R)</item>
+        <item>5878 NIRA</item>
+        <item>5886 DOUND</item>
+        <item>5894 INDAPUR</item>
+        <item>5916 KARAD-II S/DN.</item>
+        <item>5924 VADUJ</item>
+        <item>5932 UMBRAJ S/DN.</item>
+        <item>5941 MALHAR PETH S/DN</item>
+        <item>5959 PATAN S/DN.</item>
+        <item>5967 PHALTAN</item>
+        <item>5975 PHALTAN (U)</item>
+        <item>5983 LONAND</item>
+        <item>5991 DAHIWADI</item>
+        <item>6131 PANHALA</item>
+        <item>6149 KALE</item>
+        <item>6157 KODOLI</item>
+        <item>6165 PARITE</item>
+        <item>6173 KADAMWADI</item>
+        <item>6181 PHULEWADI</item>
+        <item>6190 MALKAPUR</item>
+        <item>6211 ISLAMPUR (I)</item>
+        <item>6220 ISLAMPUR (II)</item>
+        <item>6238 SHIRALA</item>
+        <item>6246 ASTHA</item>
+        <item>6254 VITA I S/DN.</item>
+        <item>6262 VITA II S/DN.</item>
+        <item>6271 KIRLOSKARWADI S/DN.</item>
+        <item>6289 ATPADI S/DN.</item>
+        <item>6319 PANDHARPUR (U)</item>
+        <item>6327 PANDHARPUR R-I S/DN</item>
+        <item>6335 AKLUJ I SUB-DN.</item>
+        <item>6343 SANGOLA</item>
+        <item>6351 MANGALVEDHA</item>
+        <item>6360 NATEPUTE</item>
+        <item>6416 DEOLA</item>
+        <item>6424 MALEGAON (RSD)</item>
+        <item>6441 YEOLA (U) S/DN</item>
+        <item>6459 NANDGAON</item>
+        <item>6602 WARDHA CIRCLE</item>
+        <item>6718 PARNER NGR RSD (I)</item>
+        <item>6726 AHMEDNAGAR (R)-II</item>
+        <item>6734 GHODEGAON</item>
+        <item>6742 RAJUR</item>
+        <item>6912 AUNDH</item>
+        <item>7111 HUPARI</item>
+        <item>7129 KAGAL</item>
+        <item>7137 GARGOTI</item>
+        <item>7145 RADHANAGARI</item>
+        <item>7153 MURGUD</item>
+        <item>7218 VAIJAPUR (R) S/DN</item>
+        <item>7226 KANNAD (R) S/DN</item>
+        <item>7234 SILLOD(R) S/DN</item>
+        <item>7242 AJANTHA(R) S/SN</item>
+        <item>7323 PURNA (R) S/DN</item>
+        <item>7412 BHOKAR (R) S/DN</item>
+        <item>7421 KINWAT (R) S/DN</item>
+        <item>7439 HADGAON (R) S/DN</item>
+        <item>7901 NAGPUR CIVIL LINES D</item>
+        <item>7919 NAGPUR CONGRESS NAGA</item>
+        <item>7927 NAGPUR MAHAL DIVISIO</item>
+        <item>7935 NAGPUR GANDHIBAUG DI</item>
+        <item>7943 NAGPUR CIVIL LINES D</item>
+        <item>7951 NAGPUR CONGRESS NAGA</item>
+        <item>7960 C DN. CT METER</item>
+        <item>7978 D DN. CT METER</item>
+        <item>7986 MIDC METER NAGPUR</item>
+        <item>7994 MIDC METER NAGPUR</item>
+        <item>8125 BHADGAON</item>
+        <item>8133 PAROLA</item>
+        <item>8141 CHALISGAON-R-I</item>
+        <item>8150 CHALISGAON-R-II</item>
+        <item>8168 PACHORA-II</item>
+        <item>8176 PAHUR</item>
+        <item>8184 PACHORA-I</item>
+        <item>8192 CHOPDA-II S/DN</item>
+        <item>8214 SANGLI URBAN DIVISIO</item>
+        <item>9016 AKOLA CIRCLE</item>
+        <item>9024 AMARAVATI CIRCLE</item>
+        <item>9032 YAVATMAL CIRCLE</item>
+        <item>9041 BULDHANA CIRCLE</item>
+        <item>9077 BHOSARI DIVISION</item>
+        <item>9113 ICHALKARANJI DIVISIO</item>
+        <item>9121 ICHALKARANJI(RURAL)</item>
+        <item>9130 KOLHAPUR (U) AG.</item>
+        <item>9148 SHIROL</item>
+        <item>9517 ULHASNAGAR I(IND)</item>
+        <item>9525 ULHASNAGAR II(IND)</item>
+        <item>9533 DOMBIVALI (IND)</item>
+        <item>9999 Test-BU</item>
+    </string-array>
+
+</resources>

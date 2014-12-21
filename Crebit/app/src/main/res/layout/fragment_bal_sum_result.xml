@@ -1,0 +1,76 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context="com.bitblue.crebit.servicespage.fragments.balanceSummary.BalSumResultFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/crebitbackground">
+
+        <LinearLayout
+            android:id="@+id/ll_balsum_balgiven"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/rounded_layout"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal"
+            android:weightSum="2">
+
+            <TextView
+                android:id="@+id/tvtotaltaken"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Total Received Rs:"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/tvbaltaken"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="100"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/ll_balsum_balgiven">
+
+            <TextView
+                android:id="@+id/tv_balSum_list_nodata"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="NO DATA!!"
+                android:background="@drawable/crebitbackground"
+                android:textColor="@color/radical_red"
+                android:gravity="center_horizontal|center_vertical"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:textSize="30dp"
+                android:visibility="invisible" />
+
+            <ListView
+                android:id="@+id/lv_balsum_result"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/ll_balsum_balgiven"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/black"></ListView>
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

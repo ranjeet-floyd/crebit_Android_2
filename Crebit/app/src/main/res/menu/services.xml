@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bitblue.crebit.services.Services">
+    <item
+        android:id="@+id/mi_userName"
+        android:title="@string/userName"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mi_chgPasswd"
+        android:title="@string/changePassword"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mi_balance"
+        android:title="@string/balance"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mi_updates"
+        android:title="@string/updates"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

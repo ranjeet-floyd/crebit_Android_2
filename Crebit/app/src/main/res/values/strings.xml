@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crrebit</string>
+    <string name="mobileNumber">Number:</string>
+    <string name="password">Password:</string>
+    <string name="newUser">New User ?</string>
+    <string name="crebitWallet">Crebit Wallet</string>
+    <string name="login">  Login </string>
+    <string name="forgotPassword"><u>Forgot Password</u></string>
+    <string name="forgotPasswd">Forgot Password</string>
+    <string name="signUp"><u>SignUp</u></string>
+    <string name="EnterNumber">Enter your mobile number here to reset password. </string>
+    <string name="mobile">Mobile</string>
+    <string name="bitBlue">BitBlue Technologies - 2014</string>
+    <string name="signupRegister">Sign Up/ Register</string>
+    <string name="accType"><u>Select Account Type</u></string>
+    <string name="name">Name</string>
+    <string name="mobNum">Mobile Number</string>
+    <string name="passwd">Password</string>
+    <string name="existingUser">Existing User/ Sign In</string>
+    <string name="comment">Refund request</string>
+
+    <string-array name="city">
+        <item>Ahmedabad</item>
+        <item>Agra</item>
+        <item>Bhiwandi</item>
+        <item>Surat</item>
+    </string-array>
+    <string-array name="bs_status">
+        <item> Sender Number </item>
+        <item> Transaction ID </item>
+    </string-array>
+    <string-array name="accountType">
+        <item>Enterprise</item>
+        <item>Personal</item>
+    </string-array>
+    <string-array name="status">
+        <item> All </item>
+        <item> Failed </item>
+        <item> Success </item>
+        <item> Pending </item>
+        <item> In Progress </item>
+        <item> Reject </item>
+        <item> Received </item>
+        <item> Others </item>
+        <item> Not Known </item>
+        <item> Awaiting </item>
+        <item> Refunded </item>
+    </string-array>
+    <string-array name="type">
+        <item> All </item>
+        <item> PostPaid </item>
+        <item> PrepPaid </item>
+        <item> DTH </item>
+        <item> Electricity Bill </item>
+        <item> Gas Bill </item>
+        <item> Insurance </item>
+        <item> BroadBand </item>
+        <item> Data Card </item>
+        <item> Fund Transfer </item>
+        <item> Bank Transfer </item>
+        <item> Crebit Admin </item>
+        <item> Crebit Monthly Charge </item>
+        <item> Money Transfer </item>
+        <item> Crebit Refund </item>
+    </string-array>
+    <string-array name="postpaid_operator">
+        <item> Airtel Landline </item>
+        <item> Airtel </item>
+        <item> CellOne </item>
+        <item> Idea </item>
+        <item> Loop Mobile </item>
+        <item> Reliance </item>
+        <item> Tata Docomo </item>
+        <item> Tata Teleservices </item>
+        <item> Vodafone </item>
+    </string-array>
+    <string-array name="prepaid_operator">
+        <item> Aircel </item>
+        <item> Airtel </item>
+        <item> BSNL </item>
+        <item> BSNL(validity/Special) </item>
+        <item> Idea </item>
+        <item> Loop </item>
+        <item> MTNL(Topup) </item>
+        <item> MTNL(Validity) </item>
+        <item> MTS </item>
+        <item> Reliance(CDMA) </item>
+        <item> Reliance(GSM) </item>
+        <item> T24(Flexi) </item>
+        <item> T24(Special) </item>
+        <item> Tata Docomo </item>
+        <item> Tata Docomo(Special) </item>
+        <item> Tata Indicom </item>
+        <item> Uninor </item>
+        <item> Videocon </item>
+        <item> Virgin(CDMA) </item>
+        <item> Virgin(GSM/Flexi) </item>
+        <item> Virgin(GSM/Special) </item>
+        <item> Vodafone </item>
+    </string-array>
+    <string-array name="datacard_operator">
+        <item> Aircel </item>
+        <item> Airtel </item>
+        <item> BSNL </item>
+        <item> Idea </item>
+        <item> MTS </item>
+        <item> Reliance </item>
+        <item> Tata Docomo </item>
+        <item> Tata Indicom </item>
+    </string-array>
+    <string-array name="dth_operator">
+        <item> Airtel Digital TV </item>
+        <item> Big TV </item>
+        <item> Dish TV </item>
+        <item> Sun Direct </item>
+        <item> Tata Sky </item>
+        <item> Videocon d2h </item>
+    </string-array>
+    <string-array name="insurance_operator">
+        <item> ICICI Pru. Life </item>
+        <item> Tata AIG Life </item>
+    </string-array>
+    <string-array name="service">
+        <item> MSEB </item>
+        <item> Reliance(Mumbai) </item>
+        <item> TorrentPower </item>
+    </string-array>
+    <string-array name="gasbill_operator">
+        <item> Mahanagar Gas Limited </item>
+    </string-array>
+    <string-array name="broadband_operator">
+        <item> Tikona PostPaid </item>
+    </string-array>
+
+    <string name="Operator">Operator</string>
+    <string name="transactionSummary">Transaction Summary</string>
+    <string name="balanceSummary">Balance Summary</string>
+    <string name="bankAccountPay">Bank Account Pay</string>
+    <string name="logout">Log Out</string>
+    <string name="updates">Updates</string>
+    <string name="margin">Margin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="userName">UserName</string>
+    <string name="changePassword">Change Password</string>
+    <string name="balance"> Balance: </string>
+    <string name="services"> Services </string>
+    <string name="postPaid">PostPaid</string>
+    <string name="prePaid">PrePaid</string>
+    <string name="dataCard">Data Card</string>
+    <string name="dth">DTH</string>
+    <string name="insurance">Insurance</string>
+    <string name="electricity">Electricity</string>
+    <string name="gasBill">Gas Bill</string>
+    <string name="broadBand">BroadBand</string>
+    <string name="fundTransfer">Fund Transfer</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="fromDate">From</string>
+    <string name="toDate">To</string>
+    <string name="status">Status</string>
+    <string name="type">Type</string>
+    <string name="update1">Send Money To Anywhere Across India\n
+                           Upto  Rs.5000 Charges: 1%% And\n
+                           Above Rs.5000 Charges: 0.5%%\n
+                           Timing: Monday to Friday 9:00 AM to 6:00 PM\n
+                                   Saturday: 9:00 AM to 4:00 PM\n</string>
+    <string name="update2">Utility Bill: Rs.5 Charges\n
+                           https://www.facebook.com/\n
+                           crebitwalletsupport@crebit.in\n
+                           Ph: 0250-3297961\n
+                           Monday to Friday-> 10:00 AM to 4:30 PM\n</string>
+    <string name="update3">Create a personal Account and get Rs. 10 cash back\n</string>
+    <string name="title_activity_post_paid">Post Paid</string>
+    <string name="title_activity_datacard">Data Card</string>
+    <string name="title_activity_pre_paid">Pre Paid</string>
+    <string name="title_activity_dth">DTH</string>
+    <string name="title_activity_insurance">Insurance</string>
+    <string name="title_activity_electricity">Electricity</string>
+    <string name="title_activity_gas_bill">Gas Bill</string>
+    <string name="title_activity_broad_band">BroadBand</string>
+    <string name="title_activity_fund_transfer">Fund Transfer</string>
+    <string name="title_activity_change_password">ChangePassword</string>
+    <string name="title_activity_margin">Margin</string>
+    <string name="TransId"> TransId: </string>
+    <string name="Message"> Message: </string>
+    <string name="StatusCode"> StatusCode: </string>
+    <string name="AvailableBalance"> AvailableBalance: </string>
+    <string name="BU"> Select BU </string>
+    <string name="Number">Number </string>
+    <string name="Amount">Amount </string>
+    <string name="Enter_Number">\tEnter Number </string>
+    <string name="Enter_Amount">\tEnter Amount </string>
+    <string name="Recharge">Recharge</string>
+    <string name="Service">Service</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mseb">MSEB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reliance_mum">RelianceMum</string>
+    <string name="title_activity_torrent_power">TorrentPower</string>
+    <string name="title_activity_check_status">CheckStatus</string>
+
+</resources>

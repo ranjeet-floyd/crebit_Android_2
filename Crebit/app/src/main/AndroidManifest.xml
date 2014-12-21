@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bitblue.crebit">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:name="com.bitblue.Applicaton.GlobalVariable"
+        android:theme="@style/AppTheme"
+        android:icon="@drawable/crebit">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".splashscreen.SplashScreenActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".loginpage.LoginActivity"
+            android:label="@string/crebitWallet"
+            android:icon="@drawable/crebit" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".loginpage.ForgotPass"
+            android:parentActivityName=".loginpage.LoginActivity"
+            android:label="@string/forgotPasswd" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".loginpage.SignUp"
+            android:parentActivityName=".loginpage.LoginActivity"
+            android:label="@string/signupRegister" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.service"
+            android:label="" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.PostPaid"
+            android:parentActivityName=".servicespage.service"
+            android:label="@string/title_activity_post_paid" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.PrePaid"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_pre_paid" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.Datacard"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_datacard" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.Dth"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_dth" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.Insurance"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_insurance" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.Electricity"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_electricity" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.GasBill"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_gas_bill" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.BroadBand"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_broad_band" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.FundTransfer"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_fund_transfer" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.menuitem.ChangePassword"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_change_password" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.Electriciti.MSEB"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_mseb" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.Electriciti.RelianceMum"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_reliance_mum" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.activities.Electriciti.TorrentPower"
+            android:parentActivityName=".servicespage.service"
+
+            android:label="@string/title_activity_torrent_power" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".servicespage.fragments.transactionSummary.checkStatus.CheckStatus"
+            android:label="@string/title_activity_check_status"
+            android:parentActivityName=".servicespage.service" />
+
+        <receiver
+            android:name=".loginpage.LoginActivity$NetworkChangeReceiver"
+            android:label="NetworkChangeReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

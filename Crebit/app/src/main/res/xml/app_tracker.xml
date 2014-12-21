@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <span style="line-height: 1.5; font-style: inherit; font-weight: inherit;">
+        tools:ignore="TypographyDashes">
+    </span>
+    <!-- The apps Analytics Tracking Id -->
+    <string name="ga_trackingId">UA-57613145-2</string>
+
+    <!-- Percentage of events to include in reports -->
+    <string name="ga_sampleFrequency">100.0</string>
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!-- catch and report uncaught exceptions from the app -->
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <!-- How long a session exists before giving up -->
+    <integer name="ga_sessionTimeout">-1</integer>
+
+    <!-- If ga_autoActivityTracking is enabled, an alternate screen name can be specified to
+    substitute for the full length canonical Activity name in screen view hit. In order to
+    specify an alternate screen name use an <screenName> element, with the name attribute
+    specifying the canonical name, and the value the alias to use instead. -->
+    <screenName name=".LoginActivity">Login Activity</screenName>
+    <screenName name=".ForgotPass">ForgotPassword Activity</screenName>
+    <screenName name=".SignUp">SignUp Activity</screenName>
+    <screenName name=".service">service Activity</screenName>
+    <screenName name=".PostPaid">PostPaid Activity</screenName>
+    <screenName name=".PrePaid">PrePaid Activity</screenName>
+    <screenName name=".Insurance">Insurance Activity</screenName>
+    <screenName name=".Electricity">Electricity Activity</screenName>
+    <screenName name=".MSEB">MSEB Activity</screenName>
+    <screenName name=".RelianceMum">RelianceMumbai Activity</screenName>
+    <screenName name=".TorrentPower">TorrentPower Activity</screenName>
+    <screenName name=".GasBill">GasBill Activity</screenName>
+    <screenName name=".BroadBand">BroadBand Activity</screenName>
+    <screenName name=".Datacard">Datacard Activity</screenName>
+    <screenName name=".Dth">DTH Activity</screenName>
+    <screenName name=".FundTransfer">FundTransfer Activity</screenName>
+    <screenName name=".CheckStatus">CheckStatus Activity</screenName>
+    <screenName name=".ChangePassword">ChangePassword Activity</screenName>
+</resources>
